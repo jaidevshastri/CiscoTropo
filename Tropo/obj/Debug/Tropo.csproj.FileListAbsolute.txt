@@ -1,0 +1,6 @@
+c:\users\jaide\documents\visual studio 2015\Projects\Tropo\Tropo\bin\Debug\Tropo.exe.config
+c:\users\jaide\documents\visual studio 2015\Projects\Tropo\Tropo\bin\Debug\Tropo.exe
+c:\users\jaide\documents\visual studio 2015\Projects\Tropo\Tropo\bin\Debug\Tropo.pdb
+c:\users\jaide\documents\visual studio 2015\Projects\Tropo\Tropo\obj\Debug\Tropo.csprojResolveAssemblyReference.cache
+c:\users\jaide\documents\visual studio 2015\Projects\Tropo\Tropo\obj\Debug\Tropo.exe
+c:\users\jaide\documents\visual studio 2015\Projects\Tropo\Tropo\obj\Debug\Tropo.pdb
